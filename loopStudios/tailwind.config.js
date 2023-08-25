@@ -16,7 +16,11 @@ module.exports = {
       letterSpacing: {
         widest: '.3em',
       },
+      backgroundImage:{
+        'test': 'url("src/assets/images/desktop/image-gero.jpg")'
+      }
     },
+    
   },
   plugins: [],
 };
